@@ -1,0 +1,11 @@
+{
+  "base_url": "/user/bensweeney/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/bensweeney",
+  "password": false,
+  "pid": 26,
+  "port": 8888,
+  "secure": false,
+  "token": "",
+  "url": "http://0.0.0.0:8888/user/bensweeney/"
+}
